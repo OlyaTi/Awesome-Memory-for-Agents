@@ -48,6 +48,7 @@ This taxonomy maps directly to the three primary application scenarios that orga
 
 | Date | Title | Paper |
 |:------:|:------|:------:|
+| 2026-07 | MemRec: Collaborative Memory-Augmented Agentic Recommender System | [![Paper](https://img.shields.io/badge/Paper-6772E5?style=for-the-badge)](https://aclanthology.org/2026.acl-long.2061.pdf) |
 | 2026-04 | Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.22085) |
 | 2026-04 | StructMem: Structured Memory for Long-Horizon Behavior in LLMs | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.21748) |
 | 2026-04 | FileGram: Grounding Agent Personalization in File-System Behavioral Traces | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.04901) |
@@ -67,7 +68,6 @@ This taxonomy maps directly to the three primary application scenarios that orga
 | 2026-01 | CogCanvas: Verbatim-Grounded Artifact Extraction for Long LLM Conversations | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.00821) |
 | 2026-01 | Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.01885) |
 | 2026-01 | Beyond Dialogue Time: Temporal Semantic Memory for Personalized LLM Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.07468) |
-| 2026-01 | MemRec: Collaborative Memory-Augmented Agentic Recommender System | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.08816) |
 | 2025-12 | Memory-T1: Reinforcement Learning for Temporal Reasoning in Multi-session Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.20092) |
 | 2025-11 | O-Mem: Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.13593) |
 | 2025-11 | LiCoMemory: Lightweight and Cognitive Agentic Memory for Efficient Long-Term Reasoning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.01448) |
